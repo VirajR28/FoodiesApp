@@ -1,0 +1,9 @@
+.register-container{
+  background-image: url("../../assets/loginSignIn.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
